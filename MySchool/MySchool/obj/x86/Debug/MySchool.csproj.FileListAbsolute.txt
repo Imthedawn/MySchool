@@ -1,0 +1,16 @@
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\bin\Debug\MySchool.exe.config
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\bin\Debug\MySchool.exe
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\bin\Debug\MySchool.pdb
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.csprojResolveAssemblyReference.cache
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.AboutForm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.CourseFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.CourseMsgFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.Login.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.MainFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.Properties.Resources.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.ScoreMsgFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.StudentFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.StudentMsgFrm.resources
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.csproj.GenerateResource.Cache
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.exe
+D:\C#.NET程序设计教程\.NET final\Visual C#.NET程序设计教程（第2版）-源代码\Visual C# .NET程序设计实用教程（第2版）源代码完整版\案例代码\MySchool\MySchool\obj\x86\Debug\MySchool.pdb
